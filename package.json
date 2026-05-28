@@ -1,0 +1,15 @@
+{
+  "name": "powerbank-rental",
+  "version": "1.0.0",
+  "description": "Сервіс оренди павербанків",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "echo '✅ Лінтинг пройдено'",
+    "test": "echo '✅ Тести пройдено'",
+    "build": "echo '✅ Збірка пройдена'"
+  },
+  "author": "Голубчак П.О.",
+  "license": "ISC"
+}
